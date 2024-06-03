@@ -6,9 +6,9 @@
 Table of Contents
 
 
-- [Introduction](README.md#introduction)
-- [Scripts](README.md#Scripts)
-- [Disclaimer](README.md#Disclaimer)
+- [Introduction](#introduction)
+- [Scripts](#Scripts)
+- [Disclaimer](#Disclaimer)
 - [Usage](#Usage)
 
 
