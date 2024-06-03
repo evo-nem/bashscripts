@@ -9,7 +9,7 @@ Table of Contents
 - [Introduction](README.md#introduction)
 - [Scripts](README.md#Scripts)
 - [Disclaimer](README.md#Disclaimer)
-- [Usage](README.md#Usage)
+- [Usage](#Usage)
 
 
 
