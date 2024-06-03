@@ -39,7 +39,7 @@ To use any of the scripts in this repository, follow these steps:
 - Clone the repository to your local machine:
 
 ```
-git clone https://github.com/lirimKrasniqi/bash.git
+git clone https://github.com/evo-nem/bashscripts.git
 ```
 
 - Navigate to the directory containing the script you wish to use:
